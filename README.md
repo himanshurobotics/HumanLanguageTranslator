@@ -53,8 +53,6 @@ This program requires Python installed in PC.
 From Python Script
 Just run the `HumanLanguageTranslator.py` in your favourite Python enabled IDE. 
 ##### or
-You can directly run the `HumanLanguageTranslator.exe` to access the application without creating any Python environment.
-##### or
 Create your own executable file by following the below method,
 1. Open Terminal in Linux/Mac or CMD/Powershell in Windows.
 2. Run the below command,
